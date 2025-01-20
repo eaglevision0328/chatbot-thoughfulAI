@@ -38,3 +38,10 @@ To run the project locally, follow these steps:
 2. Install packages:
     ```bash
     pip install -r requirements.txt
+
+3. Run app using streamlit commmand
+    ```bash
+    streamlit run app.py
+
+## Deploying Service
+    You can experience this app from url: https://thoughtfulai-customer-bot.streamlit.app/
